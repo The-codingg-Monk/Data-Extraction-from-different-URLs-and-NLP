@@ -1,0 +1,4 @@
+1. Result is in Result.xlsx file.
+2. Notebook code is in Notebook_code.ipynb file
+3. webscraping code is inside vscode folder.
+4. I have also shared the challenges i faced in challenges faced.txt file.

@@ -1,0 +1,2 @@
+>> To store url_id of corresponding URL after scraping. To overcome this used apply function of pandas.
+>> To detect personal pronoun "us,", splitting usiing split() function i was not getting 'us' i was getting "us," hence used word_tokenize instead of split.
